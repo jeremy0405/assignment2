@@ -1,11 +1,11 @@
 # 코드 설명
 
-import torch
-import torchvision
-import torch.utils.data as data
-import torchvision.transforms as transforms
+    import torch
+    import torchvision
+    import torch.utils.data as data
+    import torchvision.transforms as transforms
 
-if __name__ == "__main__":
+    if __name__ == "__main__":
     device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
     normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                      std=[0.229, 0.224, 0.225])
