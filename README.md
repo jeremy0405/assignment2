@@ -1,7 +1,10 @@
 # 코드 실행 결과
 AlexNet   Top-1 Accuracy : 56.52%
+
 VGG16     Top-1 Accuracy : 71.59%
+
 ResNet18  Top-1 Accuracy : 69.76%
+
 GoogLeNet Top-1 Accuracy : 69.78%
 
 # 코드 설명
