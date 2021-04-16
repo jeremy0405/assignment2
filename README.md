@@ -1,11 +1,16 @@
 # 코드 실행 결과
-AlexNet   Top-1 Accuracy : 56.52%
+Alexnet   Top-1 Accuracy : 56.52%
+![alexnet](https://user-images.githubusercontent.com/81368630/115024741-76150100-9efb-11eb-99e7-96e012f9dafa.jpg)
 
 VGG16     Top-1 Accuracy : 71.59%
+![vgg](https://user-images.githubusercontent.com/81368630/115024753-7ad9b500-9efb-11eb-93de-eefcc6b7e324.jpg)
 
 ResNet18  Top-1 Accuracy : 69.76%
+![resnet](https://user-images.githubusercontent.com/81368630/115024766-7f05d280-9efb-11eb-81f6-eb8c80af765c.jpg)
 
 GoogLeNet Top-1 Accuracy : 69.78%
+![googlenet](https://user-images.githubusercontent.com/81368630/115024791-8af19480-9efb-11eb-91b6-d2d9fe1b6d52.jpg)
+
 
 # 코드 설명
 
